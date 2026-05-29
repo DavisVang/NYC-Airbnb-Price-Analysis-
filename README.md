@@ -2,6 +2,10 @@
 
 This project analyzes NYC Airbnb listings to understand how price varies by borough, room type, ZIP code, review activity, and listing quality.
 
+## KPI Dashboard
+
+![KPI Dashboard](images/kpi-dashboard.png)
+
 ## Interactive Dashboard
 
 [View the Tableau Public dashboard](https://public.tableau.com/views/AirbnbProject_17798582505110/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
