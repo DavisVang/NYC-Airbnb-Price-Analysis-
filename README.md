@@ -4,7 +4,7 @@ This project analyzes NYC Airbnb listings to understand how price varies by boro
 
 ## KPI Dashboard
 
-![KPI Dashboard](images/kpi-dashboard.png)
+![KPI Dashboard](kpi-dashboard.png)
 
 ## Interactive Dashboard
 
